@@ -1,11 +1,11 @@
 # Team Matrix
-Kodikon 2.0 - Hackathon
+## Kodikon 2.0 - Hackathon
 
-## Problem Statement
-Our college was facing issues with students not wearing id cards, So we came up with the idea of adding value to the id card by converting it as a medium of payment in college canteen. Hence we came up with this idea of idebit card.
+### Problem Statement
+Our college faced issues with students not wearing ID cards. To address this, we added value to the ID card by converting it into a medium of payment for the college canteen, creating the iDebit Card.
 
-## About
-This project iDebit Card was presented in a hackathon. This project is a simulation of payment process by scanning the bar code in the id card which is an encrypted unique number for every student. And hence this unique id is used to carry all the payments.
+### About
+The iDebit Card project was presented at a hackathon. It simulates the payment process by scanning a barcode on the ID card, which contains an encrypted unique number for each student. This unique ID facilitates all payments, streamlining transactions within the college.
 
-## Achievement
-The project was recognised as top 10 projects in KODIKON 2.0, a National level hackathon.
+### Achievement
+The iDebit Card project was recognized as one of the top 10 projects at KODIKON 2.0, a National-level hackathon.
